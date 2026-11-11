@@ -629,7 +629,7 @@ export default function Home() {
                   Visit Deewan Enterprises
                 </h2>
                 <p className="text-xs sm:text-sm text-[#515154] leading-relaxed">
-                  Inspect physical Tata Power TOPCon and Adani Solar panels on display, discuss your electricity bill with senior engineers, and complete your SBI loan and subsidy paperwork in person. Located at Ward No. 10, Deewan Mohalla in Behror.
+                  Inspect physical Tata Power TOPCon and Adani Solar panels on display, discuss your electricity bill with senior engineers, and complete your SBI loan and subsidy paperwork in person. Located near High Secondary Ground, Under RB Health GYM, Patel Nagar in Behror.
                 </p>
               </div>
 
@@ -641,7 +641,7 @@ export default function Home() {
                       Deewan Enterprises (Solar Agency)
                     </span>
                     <span className="text-[#515154] mt-0.5 block leading-snug">
-                      Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701
+                      Near High Secondary Ground Under RB Health GYM, Patel Nagar, Behror, Rajasthan 301701
                     </span>
                   </div>
                 </div>
@@ -713,7 +713,7 @@ export default function Home() {
                       Deewan Enterprises (Solar Agency)
                     </span>
                     <span className="text-[11px] text-[#515154] mt-0.5 block leading-snug">
-                      Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701
+                      Near High Secondary Ground Under RB Health GYM, Patel Nagar, Behror
                     </span>
                     <a
                       href="https://www.google.com/search?kgmid=%2Fg%2F11csc74k_5&hl=en-IN&q=Deewan%20Enterprises%20(%20solar%20Agency)&shem=epsd1%2Cesd2e%2Cltae%2Crimspwouoe%2Csdpie&shndl=30&source=sh%2Fx%2Floc%2Fosrp%2Fm5%2F1&kgs=7b069aef54c490b5"
@@ -729,7 +729,7 @@ export default function Home() {
               </div>
 
               <iframe
-                src="https://maps.google.com/maps?q=Deewan+Enterprises+(+solar+Agency)+Ward+No+10+Deewan+Mohalla+Behror+Rajasthan+301701&output=embed"
+                src="https://maps.google.com/maps?q=RB+Health+Club+Gym+Patel+Nagar+Behror+Rajasthan+301701&output=embed"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -760,7 +760,7 @@ export default function Home() {
             "priceRange": "₹₹",
             "address": {
               "@type": "PostalAddress",
-              "streetAddress": "Ward No. 10, Deewan Mohalla",
+              "streetAddress": "Near High Secondary Ground Under RB Health GYM, Patel Nagar",
               "addressLocality": "Behror",
               "addressRegion": "Rajasthan",
               "postalCode": "301701",

@@ -972,7 +972,7 @@ export default function SolarStudioCalculator({
               <span>Deewan Enterprises (Solar Agency)</span>
             </a>
             <span className="hidden sm:inline text-[#86868b]">•</span>
-            <span>Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701</span>
+            <span>Near High Secondary Ground Under RB Health GYM, Patel Nagar, Behror, Rajasthan 301701</span>
           </div>
         </div>
       </div>

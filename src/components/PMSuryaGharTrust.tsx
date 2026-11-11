@@ -156,7 +156,7 @@ export default function PMSuryaGharTrust({ className = '' }: PMSuryaGharTrustPro
               <div className="pt-3 border-t border-[#e5e5ea] flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs sm:text-sm">
                 <div className="flex items-start gap-2 text-[#424245]">
                   <MapPin className="h-4 w-4 text-[#1d1d1f] shrink-0 mt-0.5" />
-                  <span>Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701</span>
+                  <span>Near High Secondary Ground Under RB Health GYM, Patel Nagar, Behror, Rajasthan 301701</span>
                 </div>
 
                 <div className="flex items-center gap-2 shrink-0">

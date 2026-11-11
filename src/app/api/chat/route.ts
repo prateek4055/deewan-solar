@@ -34,7 +34,7 @@ export async function POST(req: Request) {
             `- Financing: State Bank of India (SBI) is the EXCLUSIVE financing partner for Solar (PM Surya Ghar collateral-free loan at 6% interest p.a.). Bajaj Finserv is ONLY for electronics and home appliances in our showroom, NOT for Solar. Never suggest Bajaj Finserv for solar installations.\n` +
             `- PM Surya Ghar Seller/Vendor Application: When consumers apply on pmsuryaghar.gov.in, they must select "DEEWAN ENTERPRISES" as their registered seller/vendor under State: Rajasthan, DISCOM: Jaipur Vidyut Vitran Nigam Ltd (JVVNL). Alternatively, they can simply send a photo of their JVVNL electricity bill + Aadhaar to +91 95718 39696 on WhatsApp or visit Deewan Enterprises, Behror, and our certified team files the portal application and net-metering on their behalf 100% free.\n` +
             `- 100% turnkey JVVNL net metering handled in Behror, Neemrana, Kotputli, Alwar, Bansur and across Rajasthan.\n` +
-            `- Retail Showroom & Office: Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701. Open 9:30 AM - 8:30 PM (All 7 Days).\n` +
+            `- Retail Showroom & Office: Near High Secondary Ground Under RB Health GYM, Patel Nagar, Behror, Rajasthan 301701. Open 9:30 AM - 8:30 PM (All 7 Days).\n` +
             `- Phone & WhatsApp: +91 95718 39696.\n` +
             `Be polite, concise, premium, minimal, and informative. Support both Hindi and English.`
         });
@@ -72,7 +72,7 @@ export async function POST(req: Request) {
         `2. Select State: "Rajasthan", DISCOM: "Jaipur Vidyut Vitran Nigam Ltd (JVVNL)", and enter your K-Number.\n` +
         `3. In the "Choose Registered Vendor / Seller" search bar, type: DEEWAN ENTERPRISES and select us.\n` +
         `4. Confirm your solar capacity (e.g. 3kW). Once submitted, our team receives your file instantly.\n\n` +
-        `You can also walk in anytime to Deewan Enterprises, Ward No. 10, Deewan Mohalla, Behror!`;
+        `You can also walk in anytime to Deewan Enterprises, Near High Secondary Ground Under RB Health GYM, Patel Nagar, Behror!`;
     } else if (lower.includes('100 unit') || lower.includes('free unit') || lower.includes('17000') || lower.includes('78000') || lower.includes('95000') || lower.includes('100 यूनिट') || lower.includes('फ्री यूनिट')) {
       reply =
         `Here is the exact Rajasthan Subsidy Policy explained:\n\n` +
@@ -121,7 +121,7 @@ export async function POST(req: Request) {
         `Would you like assistance with an SBI solar loan application on WhatsApp (+91 95718 39696)?`;
     } else if (lower.includes('location') || lower.includes('address') || lower.includes('shop') || lower.includes('showroom') || lower.includes('कहां') || lower.includes('कहा')) {
       reply =
-        `Our flagship showroom is located at:\nDeewan Enterprises, Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701.\n\nTimings: 9:30 AM to 8:30 PM (Open all 7 days).\nDirect Call / WhatsApp: +91 95718 39696.`;
+        `Our flagship showroom is located at:\nDeewan Enterprises, Near High Secondary Ground Under RB Health GYM, Patel Nagar, Behror, Rajasthan 301701.\n\nTimings: 9:30 AM to 8:30 PM (Open all 7 days).\nDirect Call / WhatsApp: +91 95718 39696.`;
     } else if (lower.includes('contact') || lower.includes('phone') || lower.includes('number') || lower.includes('whatsapp') || lower.includes('नंबर')) {
       reply =
         `You can reach our senior solar engineering desk directly at +91 95718 39696 or click the WhatsApp button on the website for an instant quotation.`;

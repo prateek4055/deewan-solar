@@ -170,7 +170,7 @@ export default function Footer() {
               <li className="flex gap-2.5 items-start">
                 <MapPin className="h-4 w-4 text-[#1d1d1f] shrink-0 mt-0.5" />
                 <span className="text-[#1d1d1f] font-medium leading-relaxed">
-                  Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701
+                  Near High Secondary Ground Under RB Health GYM, Patel Nagar, Behror, Rajasthan 301701
                 </span>
               </li>
               <li className="flex gap-2.5 items-center">

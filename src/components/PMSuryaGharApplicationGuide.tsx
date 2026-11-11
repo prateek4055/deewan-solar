@@ -203,7 +203,7 @@ export default function PMSuryaGharApplicationGuide() {
               </ul>
 
               <div className="pt-3 border-t border-[#e5e5ea] text-xs text-[#515154]">
-                <strong className="text-[#1d1d1f]">Walk-in Desk:</strong> Ward No. 10, Deewan Mohalla, Behror (Open all 7 days).
+                <strong className="text-[#1d1d1f]">Walk-in Desk:</strong> Near High Secondary Ground Under RB Health GYM, Patel Nagar, Behror (Open all 7 days).
               </div>
             </div>
 

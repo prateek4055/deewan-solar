@@ -238,7 +238,7 @@ export default function CustomerReviews() {
             <div className="flex items-center gap-2 text-xs sm:text-sm text-[#424245] mt-1 flex-wrap">
               <span className="flex items-center gap-1 font-medium">
                 <MapPin className="h-3.5 w-3.5 text-[#1d1d1f]" />
-                <span>Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701</span>
+                <span>Near High Secondary Ground Under RB Health GYM, Patel Nagar, Behror, Rajasthan 301701</span>
               </span>
               <span className="hidden sm:inline">•</span>
               <a href="tel:+919571839696" className="flex items-center gap-1 font-bold text-[#1d1d1f] hover:underline">
