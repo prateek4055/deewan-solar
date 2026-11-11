@@ -41,7 +41,7 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row sm:items-center justify-between pb-10 border-b border-[#e5e5ea] gap-6">
           <div className="flex items-center gap-3.5">
             <img
-              src="/deewan-logo-mark.png"
+              src="/deewan-logo-mark.webp"
               alt="Deewan Solar"
               className="h-12 w-auto object-contain"
             />
@@ -170,7 +170,7 @@ export default function Footer() {
               <li className="flex gap-2.5 items-start">
                 <MapPin className="h-4 w-4 text-[#1d1d1f] shrink-0 mt-0.5" />
                 <span className="text-[#1d1d1f] font-medium leading-relaxed">
-                  Deewan Complex, Alwar Road, Opp. Shanti Market, Behror, Rajasthan 301701
+                  Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701
                 </span>
               </li>
               <li className="flex gap-2.5 items-center">

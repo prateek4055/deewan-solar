@@ -44,7 +44,7 @@ const GEOTAGGED_INSTALLATIONS: GeotaggedInstallation[] = [
     date: '21/10/2026',
     systemHi: '5 kW टाटा पावर सोलर (टाटा एन-टाइप टॉपकॉन)',
     systemEn: '5 kW Tata Power Solar (N-Type TOPCon)',
-    image: '/installations/installation-1-shyam-nagar.jpg',
+    image: '/installations/installation-1-shyam-nagar.webp',
     reviewHi:
       'दीवान सोलर से 5kW का टाटा सोलर सिस्टम लगवाया। बहरोड़ में टाटा के ब्रांड पर हमें सबसे ज्यादा भरोसा था। टीम ने 20 दिनों के अंदर जेवीवीएनएल नेट-मीटरिंग पूरी करा दी। हमारा बिजली का बिल ₹14,000 से घटकर सिर्फ ₹350 रह गया और ₹95,000 की सरकारी सब्सिडी सीधे बैंक खाते में आ गई।',
     reviewEn:
@@ -62,7 +62,7 @@ const GEOTAGGED_INSTALLATIONS: GeotaggedInstallation[] = [
     date: '16/10/2026',
     systemHi: '3 kW अदाणी सोलर (बाइफेशियल डुअल-ग्लास)',
     systemEn: '3 kW Adani Solar (Bifacial Dual-Glass)',
-    image: '/installations/installation-2-khapariya.jpg',
+    image: '/installations/installation-2-khapariya.webp',
     reviewHi:
       'अदाणी सोलर के दोनों तरफ से बिजली बनाने वाले (बाइफेशियल) पैनल बहुत ही बढ़िया काम कर रहे हैं। एसबीआई (SBI) से सोलर लोन भी दीवान सोलर ने बिना किसी परेशानी के करवा दिया। बहुत ही ईमानदार और भरोसेमंद इंजीनियरिंग सेवा।',
     reviewEn:
@@ -80,7 +80,7 @@ const GEOTAGGED_INSTALLATIONS: GeotaggedInstallation[] = [
     date: '07/10/2026',
     systemHi: '3 kW टाटा पावर सोलर (एलिवेटेड परगोला स्ट्रक्चर)',
     systemEn: '3 kW Tata Power Solar (Elevated Pergola)',
-    image: '/installations/installation-3-jaitpura.jpg',
+    image: '/installations/installation-3-jaitpura.webp',
     reviewHi:
       'दीवान जी की दुकान से हम 25 सालों से इलेक्ट्रॉनिक्स सामान लेते आ रहे हैं। जब घर पर सोलर लगवाना था, तो हमने केवल दीवान सोलर को चुना। 8-फीट ऊंचे स्ट्रक्चर से छत की पूरी जगह खुली है और दिनभर एसी बिल्कुल मुफ्त चलता है।',
     reviewEn:
@@ -98,7 +98,7 @@ const GEOTAGGED_INSTALLATIONS: GeotaggedInstallation[] = [
     date: '24/08/2026',
     systemHi: '4 kW ऑन-ग्रिड सोलर प्लांट (हेवी जीआई फ्रेम)',
     systemEn: '4 kW Heavy-Duty Galvanized GI Rooftop Plant',
-    image: '/installations/installation-4-behror-rural.jpg',
+    image: '/installations/installation-4-behror-rural.webp',
     reviewHi:
       'गांव में दिन के समय ट्यूबवेल और घर के पंखे-कूलर चलाने के लिए हमने यह सोलर लगवाया। आंधी-तूफान में भी इसका भारी जीआई स्ट्रक्चर पूरी तरह मजबूत रहा। दीवान सोलर की टीम ने मात्र 1 दिन में पूरी फिटिंग कर दी।',
     reviewEn:
@@ -116,7 +116,7 @@ const GEOTAGGED_INSTALLATIONS: GeotaggedInstallation[] = [
     date: '06/08/2026',
     systemHi: '3.5 kW टाटा पावर सोलर हाई-यील्ड प्लांट',
     systemEn: '3.5 kW Tata Power Solar High-Yield System',
-    image: '/installations/installation-5-shakti-vihar.jpg',
+    image: '/installations/installation-5-shakti-vihar.webp',
     reviewHi:
       'शक्ति विहार में हमारी सुंदर टाइल्स वाली छत पर दीवान सोलर ने बिना टाइल तोड़े केमिकल एंकरिंग से सोलर लगाया। छत पर धूप से बचाव भी हो गया और बिजली का बिल भी शून्य हो गया। बहुत ही साफ-सुथरा और उच्च-स्तरीय काम।',
     reviewEn:
@@ -221,7 +221,7 @@ export default function CustomerReviews() {
       <div className="p-5 sm:p-6 rounded-2xl bg-[#fbfbfd] border border-[#d2d2d7] shadow-2xs flex flex-col lg:flex-row items-start lg:items-center justify-between gap-4">
         <div className="flex items-start sm:items-center gap-3.5">
           <div className="h-12 w-12 rounded-xl bg-white border border-[#d2d2d7] flex items-center justify-center shadow-2xs shrink-0">
-            <img src="/deewan-logo-mark.png" alt="Deewan" className="h-8 w-auto object-contain" />
+            <img src="/deewan-logo-mark.webp" alt="Deewan" className="h-8 w-auto object-contain" width={32} height={32} loading="lazy" decoding="async" />
           </div>
           <div>
             <div className="flex items-center gap-2 flex-wrap">
@@ -238,7 +238,7 @@ export default function CustomerReviews() {
             <div className="flex items-center gap-2 text-xs sm:text-sm text-[#424245] mt-1 flex-wrap">
               <span className="flex items-center gap-1 font-medium">
                 <MapPin className="h-3.5 w-3.5 text-[#1d1d1f]" />
-                <span>Deewan Complex, Alwar Road, Opp. Shanti Market, Behror, Rajasthan 301701</span>
+                <span>Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701</span>
               </span>
               <span className="hidden sm:inline">•</span>
               <a href="tel:+919571839696" className="flex items-center gap-1 font-bold text-[#1d1d1f] hover:underline">
@@ -291,6 +291,7 @@ export default function CustomerReviews() {
                 alt={`${item.nameEn} Rooftop Solar Installation in ${item.locationEn}`}
                 className="w-full h-full object-cover object-top select-none transition-transform duration-500 group-hover:scale-[1.02]"
                 loading="lazy"
+                decoding="async"
               />
 
               {/* Top Bar on Image: Geotag Pill + Fullscreen Button */}

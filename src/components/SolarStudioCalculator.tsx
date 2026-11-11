@@ -436,7 +436,7 @@ export default function SolarStudioCalculator({
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-5">
           <div className="flex items-start gap-4">
             <img
-              src="/deewan-logo-mark.png"
+              src="/deewan-logo-mark.webp"
               alt="Deewan Solar"
               className="h-12 w-auto object-contain shrink-0 mt-1"
             />
@@ -972,7 +972,7 @@ export default function SolarStudioCalculator({
               <span>Deewan Enterprises (Solar Agency)</span>
             </a>
             <span className="hidden sm:inline text-[#86868b]">•</span>
-            <span>Deewan Complex, Alwar Road, Opp. Shanti Market, Behror, Rajasthan 301701</span>
+            <span>Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701</span>
           </div>
         </div>
       </div>

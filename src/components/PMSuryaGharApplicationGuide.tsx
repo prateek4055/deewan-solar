@@ -130,7 +130,7 @@ export default function PMSuryaGharApplicationGuide() {
                 Never Stand in Line. We File Your Entire Application For Free.
               </h3>
               <p className="text-sm sm:text-base text-[#424245] leading-relaxed">
-                The government portal requires accurate technical DISCOM entries and document uploads. Our certified portal desk at <strong>Deewan Complex in Behror</strong> completes your registration, selects <strong>Deewan Enterprises</strong>, and secures your JVVNL sanction with zero headache.
+                The government portal requires accurate technical DISCOM entries and document uploads. Our certified portal desk at <strong>Deewan Enterprises in Behror</strong> completes your registration, selects <strong>Deewan Enterprises</strong>, and secures your JVVNL sanction with zero headache.
               </p>
 
               {/* 3 Simple Steps */}
@@ -203,7 +203,7 @@ export default function PMSuryaGharApplicationGuide() {
               </ul>
 
               <div className="pt-3 border-t border-[#e5e5ea] text-xs text-[#515154]">
-                <strong className="text-[#1d1d1f]">Walk-in Desk:</strong> Deewan Complex, Alwar Road, Opp. Shanti Market, Behror (Open all 7 days).
+                <strong className="text-[#1d1d1f]">Walk-in Desk:</strong> Ward No. 10, Deewan Mohalla, Behror (Open all 7 days).
               </div>
             </div>
 

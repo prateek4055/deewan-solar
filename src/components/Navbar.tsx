@@ -52,7 +52,7 @@ export default function Navbar() {
             <div className="flex items-center gap-3 shrink-0">
               <Link href="/" className="flex items-center gap-2.5 sm:gap-3 group">
                 <img
-                  src="/deewan-logo-mark.png"
+                  src="/deewan-logo-mark.webp"
                   alt="Deewan Solar Official Logo"
                   className="h-7 sm:h-8 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
                 />

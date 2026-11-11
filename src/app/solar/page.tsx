@@ -117,7 +117,7 @@ export default function SolarPage() {
     },
     {
       q: 'Can I install solar on Bajaj Finserv EMI without downpayment?',
-      a: 'No. Bajaj Finserv EMIs are offered exclusively for home electronics and appliances at our Deewan Complex showroom. For Solar rooftop systems, financing is provided exclusively through State Bank of India (SBI) under the PM Surya Ghar Solar Loan scheme (6% interest p.a., collateral-free, up to 10 years).'
+      a: 'No. Bajaj Finserv EMIs are offered exclusively for home electronics and appliances at our Deewan Enterprises showroom in Behror. For Solar rooftop systems, financing is provided exclusively through State Bank of India (SBI) under the PM Surya Ghar Solar Loan scheme (6% interest p.a., collateral-free, up to 10 years).'
     },
     {
       q: 'Will installing solar ruin my rooftop terrace space?',
@@ -135,7 +135,7 @@ export default function SolarPage() {
           {/* Official Brand Mark & Typography */}
           <div className="flex flex-col items-center justify-center gap-3.5 mx-auto">
             <img
-              src="/deewan-logo-mark.png"
+              src="/deewan-logo-mark.webp"
               alt="Deewan Solar"
               className="h-16 sm:h-20 w-auto object-contain"
             />

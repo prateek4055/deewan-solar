@@ -55,7 +55,7 @@ export default function Home() {
           {/* Official Brand Mark & Typography */}
           <div className="flex flex-col items-center justify-center gap-3.5 mx-auto">
             <img
-              src="/deewan-logo-mark.png"
+              src="/deewan-logo-mark.webp"
               alt="Deewan Solar"
               className="h-16 sm:h-20 w-auto object-contain"
             />
@@ -491,7 +491,7 @@ export default function Home() {
 
               <div className="mt-6 pt-4 border-t border-[#f0f0f4] flex items-center justify-between">
                 <span className="text-xs font-bold text-[#1d1d1f]">No-Cost Appliance EMIs</span>
-                <span className="text-[10px] text-[#86868b]">Deewan Complex Desk</span>
+                <span className="text-[10px] text-[#86868b]">Deewan Enterprises Desk</span>
               </div>
             </div>
 
@@ -523,7 +523,7 @@ export default function Home() {
                 Electronics Designed to Run Cleanly on Solar.
               </h2>
               <p className="text-xs sm:text-sm text-[#6e6e73] mt-1 max-w-xl">
-                Deewan Complex in Behror has been the region’s premier appliances showroom for 30+ years. Pair your rooftop solar with solar-ready inverter air conditioners, refrigerators, and heavy UPS systems.
+                Deewan Enterprises in Behror has been the region’s premier appliances showroom for 30+ years. Pair your rooftop solar with solar-ready inverter air conditioners, refrigerators, and heavy UPS systems.
               </p>
             </div>
 
@@ -629,7 +629,7 @@ export default function Home() {
                   Visit Deewan Enterprises
                 </h2>
                 <p className="text-xs sm:text-sm text-[#515154] leading-relaxed">
-                  Inspect physical Tata Power TOPCon and Adani Solar panels on display, discuss your electricity bill with senior engineers, and complete your SBI loan and subsidy paperwork in person. Located at Deewan Complex, opposite Shanti Market on Alwar Road in Behror.
+                  Inspect physical Tata Power TOPCon and Adani Solar panels on display, discuss your electricity bill with senior engineers, and complete your SBI loan and subsidy paperwork in person. Located at Ward No. 10, Deewan Mohalla in Behror.
                 </p>
               </div>
 
@@ -641,7 +641,7 @@ export default function Home() {
                       Deewan Enterprises (Solar Agency)
                     </span>
                     <span className="text-[#515154] mt-0.5 block leading-snug">
-                      Deewan Complex, Alwar Road, Opp. Shanti Market, Behror, Rajasthan 301701
+                      Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701
                     </span>
                   </div>
                 </div>
@@ -713,7 +713,7 @@ export default function Home() {
                       Deewan Enterprises (Solar Agency)
                     </span>
                     <span className="text-[11px] text-[#515154] mt-0.5 block leading-snug">
-                      Deewan Complex, Alwar Rd, Opp. Shanti Market, Behror
+                      Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701
                     </span>
                     <a
                       href="https://www.google.com/search?kgmid=%2Fg%2F11csc74k_5&hl=en-IN&q=Deewan%20Enterprises%20(%20solar%20Agency)&shem=epsd1%2Cesd2e%2Cltae%2Crimspwouoe%2Csdpie&shndl=30&source=sh%2Fx%2Floc%2Fosrp%2Fm5%2F1&kgs=7b069aef54c490b5"
@@ -729,7 +729,7 @@ export default function Home() {
               </div>
 
               <iframe
-                src="https://maps.google.com/maps?q=Deewan+Enterprises+(+solar+Agency)+Alwar+Road+Behror+Rajasthan+301701&output=embed"
+                src="https://maps.google.com/maps?q=Deewan+Enterprises+(+solar+Agency)+Ward+No+10+Deewan+Mohalla+Behror+Rajasthan+301701&output=embed"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -760,7 +760,7 @@ export default function Home() {
             "priceRange": "₹₹",
             "address": {
               "@type": "PostalAddress",
-              "streetAddress": "Deewan Complex, Alwar Rd, opp. Shanti Market",
+              "streetAddress": "Ward No. 10, Deewan Mohalla",
               "addressLocality": "Behror",
               "addressRegion": "Rajasthan",
               "postalCode": "301701",

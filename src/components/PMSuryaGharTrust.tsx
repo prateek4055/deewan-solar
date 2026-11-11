@@ -35,10 +35,11 @@ export default function PMSuryaGharTrust({ className = '' }: PMSuryaGharTrustPro
             <div className="relative w-full max-w-[340px] sm:max-w-none rounded-2xl overflow-hidden bg-gradient-to-b from-[#f9f9fb] to-[#ececf0] border border-[#d2d2d7] p-5 flex flex-col items-center">
               <div className="relative w-48 h-56 sm:w-56 sm:h-64 overflow-hidden flex items-end justify-center mb-3">
                 <img
-                  src="/government/pm-modi-official.png"
+                  src="/government/pm-modi-official.webp"
                   alt="Hon'ble Prime Minister Narendra Modi - PM Surya Ghar: Muft Bijli Yojana"
                   className="w-full h-full object-contain object-bottom select-none"
                   loading="eager"
+                  decoding="async"
                 />
               </div>
 
@@ -155,7 +156,7 @@ export default function PMSuryaGharTrust({ className = '' }: PMSuryaGharTrustPro
               <div className="pt-3 border-t border-[#e5e5ea] flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs sm:text-sm">
                 <div className="flex items-start gap-2 text-[#424245]">
                   <MapPin className="h-4 w-4 text-[#1d1d1f] shrink-0 mt-0.5" />
-                  <span>Deewan Complex, Alwar Road, Opp. Shanti Market, Behror, Rajasthan 301701</span>
+                  <span>Ward No. 10, Deewan Mohalla, Behror, Rajasthan 301701</span>
                 </div>
 
                 <div className="flex items-center gap-2 shrink-0">

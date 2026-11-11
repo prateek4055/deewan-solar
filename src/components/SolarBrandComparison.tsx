@@ -241,7 +241,7 @@ export default function SolarBrandComparison() {
             </a>
 
             <span className="text-[10px] text-center text-[#86868b]">
-              Authorized stock available at Deewan Complex, Alwar Rd, Behror.
+              Authorized stock available at Deewan Enterprises, Behror.
             </span>
           </div>
         </div>
